@@ -32,7 +32,7 @@ h3 {
 }
 
 .panel-left p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .panel h3 {
@@ -48,7 +48,7 @@ h3 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .select {
@@ -59,7 +59,7 @@ h2 {
 }
 
 .select img {
-    width: 200px;
+    width: 150px;
     margin: 20px;
     display: inline-block;
 
